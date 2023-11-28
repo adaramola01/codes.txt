@@ -1,0 +1,10 @@
+software life cycle
+Plan using git/github,jira,aws,azure depends which one your organization uses
+Code using github 
+Build using maven
+Test using se
+Integrate/release using jenkins
+Deploy using puppet,chef,ansible,saltstack
+Operate using ansible,docker,kubernetes
+Monitor using Nagios
+
